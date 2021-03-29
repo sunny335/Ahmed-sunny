@@ -7,7 +7,7 @@
 Skills:  HTML / CSS /SCSS / BOOTSTRAP / JAVASCRIPT / REACT / REDUX / MATERIAL-UI  / NODEJS / MOGODB / EXPRESSJS / MONGOOSE / 
 
 ### Here is my [Portfolio](https://sunny.thememaster.net/)
-### Here is my [Resume]()
+### Here is my [Resume](https://drive.google.com/file/d/1NIE3kjEAFwoCbKTNlFlu9BvQlum4LZ5c/view?usp=sharing)
 
 
 [![sunny's github stats](https://github-readme-stats.vercel.app/api?username=sunny335)](https://github.com/sunny335/github-readme-stats)
